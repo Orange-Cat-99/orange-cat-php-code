@@ -1,0 +1,61 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+
+.hello{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin: 20px;
+    border-radius: 20px;
+    content: fix;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.hello img{
+    border-radius: 20px;
+}
+
+.hello p{
+    font-size: 20px;
+}
+
+.hello a{
+    text-decoration: none;
+}
+
+.yo{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    margin: 20px;
+    border-radius: 20px;
+    content: fix;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.yo img{
+    border-radius: 20px;
+}
+
+.yo p{
+    font-size: 20px;
+}
+
+.yo a{
+    text-decoration: none;
+}
